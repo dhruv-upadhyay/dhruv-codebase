@@ -4,5 +4,6 @@
         <page name='Reverse'/>
         <page name='Duplicate Elements'/>
         <page name='Rotate Elements'/>
+        <page name='MathematicalCalculations'/>
     </pages>
 </playground>

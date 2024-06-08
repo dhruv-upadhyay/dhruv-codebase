@@ -1,0 +1,33 @@
+/* 
+  Localizable.strings
+  CurrencyConverter
+
+  Created by Dhruv Upadhyay on 06/03/23.
+  
+*/
+
+// MARK: - Common
+
+"no_data_title" = "Error";
+"no_data_found" = "No currency data availbale in database! Please retry after sometime!";
+"alert_button_ok" = "OK";
+
+// MARK: - Toolbar
+"toolbar_done" = "Done";
+"toolbar_cancel" = "Cancel";
+
+// MARK: - Landing screen
+
+"landing_title" = "Currency Converter";
+"landing_button_convert" = "CONVERT";
+"landing_empty_currency_value" = "0.00";
+
+// MARK: - Popup Screen
+
+"popup_title" = "World Currecnies";
+"popup_search_country" = "Search country";
+"popup_exchange_rate" = "Exchange Rate:";
+"popup_currency_symbol" = "Currency Symbol:";
+"popup_currency_code" = "Currency code:";
+"popup_base_usd" = "Base: USD";
+"popup_base" = "Base:";

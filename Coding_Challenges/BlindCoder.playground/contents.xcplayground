@@ -3,5 +3,6 @@
     <pages>
         <page name='Reverse'/>
         <page name='Duplicate Elements'/>
+        <page name='Rotate Elements'/>
     </pages>
 </playground>

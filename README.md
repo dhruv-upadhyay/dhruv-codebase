@@ -2,7 +2,7 @@
 
 Welcome to my coding showcase repository, highlighting my proficiency in tackling complex problems with confidence. Here's what you'll discover:
 
-**Key Features:**
+**Key Points:**
 - **Array Manipulations:** Explore efficient algorithms and techniques for addressing various array-related challenges.
 - **String Manipulations:** Discover robust solutions for string manipulation, pattern matching, and beyond.
 - **Sorting Algorithms:** Find implementations of classic and advanced sorting techniques to optimize data organization.

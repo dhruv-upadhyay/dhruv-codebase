@@ -6,5 +6,6 @@
         <page name='Rotate Elements'/>
         <page name='MathematicalCalculations'/>
         <page name='BaseballGame'/>
+        <page name='DesignArchitecture(iOS)'/>
     </pages>
 </playground>

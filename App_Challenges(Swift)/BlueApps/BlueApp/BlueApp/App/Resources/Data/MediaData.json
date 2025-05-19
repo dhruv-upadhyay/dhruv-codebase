@@ -1,0 +1,212 @@
+[
+    {
+        "banner": "ic_heritage",
+        "title": "HERITAGE",
+        "subTitle": "Indian",
+        "images": [
+            {
+                "image": "ic_ajanta",
+                "title": "Ajanta Caves",
+                "desc": "Ancient Buddhist masterpieces that shaped Indian classical art & architecture."
+            },
+            {
+                "image": "ic_bodh-gaya",
+                "title": "Bodh Gaya",
+                "desc": "Sacred site where Buddha attained enlightenment under the Bodhi Tree."
+            },
+            {
+                "image": "ic_ellora",
+                "title": "Ellora Caves",
+                "desc": "A harmony of Hindu, Buddhist, and Jain rock-cut temple architecture."
+            },
+            {
+                "image": "ic_khajuraho",
+                "title": "Khajuraho",
+                "desc": "Renowned for its erotic sculptures and stunning Nagara-style temples."
+            },
+            {
+                "image": "ic_tajmahal",
+                "title": "Taj Mahal",
+                "desc": "A timeless symbol of love and Mughal architectural brilliance."
+            }
+        ]
+    },
+    {
+        "banner": "ic_forest",
+        "title": "WILDLIFE",
+        "subTitle": "Indian",
+        "images": [
+            {
+                "image": "ic_black_buck",
+                "title": "Black Buck",
+                "desc": "Graceful antelope with spiral horns, known for speed and leaping in grasslands."
+            },
+            {
+                "image": "ic_chinkara",
+                "title": "Chinkara",
+                "desc": "A shy Indian gazelle, commonly found in deserts and scrub forests across India."
+            },
+            {
+                "image": "ic_elephant",
+                "title": "Elephant",
+                "desc": "Gentle giants of the forest, revered in Indian culture and religious traditions."
+            },
+            {
+                "image": "ic_lion",
+                "title": "Asiatic Lion",
+                "desc": "Endangered species, found only in India’s Gir Forest with a majestic presence."
+            },
+            {
+                "image": "ic_rhinoceros",
+                "title": "Indian Rhinoceros",
+                "desc": "One-horned rhino, primarily found in Assam, known for its armor-like skin."
+            },
+            {
+                "image": "ic_snow_leopard",
+                "title": "Snow Leopard",
+                "desc": "Elusive mountain predator of the Himalayas, adapted to icy terrain and cold climate."
+            },
+            {
+                "image": "ic_tiger",
+                "title": "Bengal Tiger",
+                "desc": "India’s national animal, powerful and iconic predator of the Indian jungles."
+            }
+        ]
+    },
+    {
+        "banner": "ic_festival",
+        "title": "FESTIVALS",
+        "subTitle": "Indian",
+        "images": [
+            {
+                "image": "ic_dassehra",
+                "title": "Dussehra",
+                "desc": "Celebrates the victory of good over evil, symbolized by Lord Rama's triumph over Ravana."
+            },
+            {
+                "image": "ic_diwali",
+                "title": "Diwali",
+                "desc": "The festival of lights, symbolizing the return of Lord Rama to Ayodhya and the triumph of light over darkness."
+            },
+            {
+                "image": "ic_durgapuja",
+                "title": "Durga Puja",
+                "desc": "Honors Goddess Durga’s victory over the buffalo demon Mahishasura, celebrating feminine power."
+            },
+            {
+                "image": "ic_ganesh_chaturthi",
+                "title": "Ganesh Chaturthi",
+                "desc": "Marks the birth of Lord Ganesha, celebrated with grand processions and idol immersions."
+            },
+            {
+                "image": "ic_holi",
+                "title": "Holi",
+                "desc": "The festival of colors, symbolizing the arrival of spring and the victory of good over evil."
+            },
+            {
+                "image": "ic_janmashtami",
+                "title": "Janmashtami",
+                "desc": "Celebrates the birth of Lord Krishna with fasting, devotional singing, and midnight celebrations."
+            },
+            {
+                "image": "ic_kumbhmela",
+                "title": "Kumbh Mela",
+                "desc": "A major pilgrimage and spiritual gathering held at sacred rivers across India."
+            },
+            {
+                "image": "ic_makar_sankranti",
+                "title": "Makar Sankranti",
+                "desc": "Harvest festival marking the sun’s transition into Capricorn, celebrated with kite flying and sweets."
+            },
+            {
+                "image": "ic_navratri",
+                "title": "Navratri",
+                "desc": "Nine-night festival honoring Goddess Durga, featuring dance, fasting, and devotion."
+            },
+            {
+                "image": "ic_rakshabandhan",
+                "title": "Raksha Bandhan",
+                "desc": "Celebrates the bond between brothers and sisters with the tying of a protective thread."
+            }
+        ]
+    },
+    {
+        "banner": "ic_craft",
+        "title": "CRAFT",
+        "subTitle": "Indian",
+        "images": [
+            {
+                "image": "ic_bamboo_basket",
+                "title": "Bamboo Basketry",
+                "desc": "Intricately handwoven baskets made from bamboo, reflecting sustainable Indian craftsmanship."
+            },
+            {
+                "image": "ic_artisan_crafting",
+                "title": "Artisan Crafting",
+                "desc": "Skilled artisans bring traditional Indian crafts to life through generations of heritage."
+            },
+            {
+                "image": "ic_embroidery",
+                "title": "Embroidery",
+                "desc": "Elaborate needlework adorning fabrics with regional styles like Phulkari, Kantha, and Zardozi."
+            },
+            {
+                "image": "ic_metal",
+                "title": "Metal Craft",
+                "desc": "Traditional Indian metalwork in brass, copper, and silver—used in idols, utensils, and decor."
+            },
+            {
+                "image": "ic_paper_pattachitra_art",
+                "title": "Pattachitra Art",
+                "desc": "Ancient scroll painting from Odisha and Bengal, known for its intricate details and mythological themes."
+            },
+            {
+                "image": "ic_pottery",
+                "title": "Pottery",
+                "desc": "From terracotta to blue pottery, Indian pottery showcases both utility and aesthetic beauty."
+            },
+            {
+                "image": "ic_wooden_textile_block",
+                "title": "Wooden Textile Block",
+                "desc": "Hand-carved wooden blocks used in traditional Indian textile printing, especially in Rajasthan."
+            }
+        ]
+    },
+    {
+        "banner": "ic_dance",
+        "title": "DANCES",
+        "subTitle": "Classical Indian",
+        "images": [
+            {
+                "image": "ic_bharatanatyam",
+                "title": "Bharatanatyam",
+                "desc": "Originating in Tamil Nadu, it’s one of the oldest classical dance forms known for grace and expression."
+            },
+            {
+                "image": "ic_kathak",
+                "title": "Kathak",
+                "desc": "A North Indian classical dance form that blends storytelling with intricate footwork and spins."
+            },
+            {
+                "image": "ic_kathakali",
+                "title": "Kathakali",
+                "desc": "A vibrant dance-drama from Kerala, known for elaborate costumes and expressive gestures."
+            },
+            {
+                "image": "ic_kuchipudi",
+                "title": "Kuchipudi",
+                "desc": "A classical dance from Andhra Pradesh, combining fast rhythms with dramatic storytelling."
+            },
+            {
+                "image": "ic_manipuri",
+                "title": "Manipuri",
+                "desc": "A graceful dance form from Manipur, deeply rooted in Vaishnavism and characterized by gentle movements."
+            },
+            {
+                "image": "ic_odissi",
+                "title": "Odissi",
+                "desc": "A dance form from Odisha, known for its lyrical movement and sculptural poses."
+            }
+        ]
+    }
+]
